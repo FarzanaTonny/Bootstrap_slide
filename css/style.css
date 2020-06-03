@@ -1,0 +1,32 @@
+.banner{
+	background-image: url(../images/we.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.carousel-inner{
+	background-color: rgba(1,1,1,.7);
+}
+.carousel-item{
+	color: white;
+	padding:73px;
+}
+.carousel-item h1{
+font-size: 35px;
+    margin-bottom: 32px;
+}
+.carousel-item p{
+    margin-bottom: 32px;
+}
+.carousel-item button{
+    margin-bottom: 32px;
+}
+.custom_ind li{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-right: 7px;
+    margin-left: 3px;
+    
+}
+
